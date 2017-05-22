@@ -144,11 +144,11 @@
                     dataType: "json",
                     success: function (response, xml) {
                         // 此处放成功后执行的代码
-                        params.successCallBack&&params.successCallBack(response, xml);
+                        params.success&&params.success(response, xml);
                     },
                     fail: function (status) {
                         // 此处放失败后执行的代码
-                        params.failCallBack&&params.failCallBack(status);
+                        params.fail&&params.fail(status);
                     }
                 });
 
