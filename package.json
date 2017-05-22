@@ -1,0 +1,24 @@
+{
+  "name": "js-err-collector",
+  "version": "1.0.0",
+  "description": "web error collector",
+  "main": "jsErrCollector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benben1024/js-err-collector.git"
+  },
+  "keywords": [
+    "js",
+    "error",
+    "collector"
+  ],
+  "author": "benben1024",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benben1024/js-err-collector/issues"
+  },
+  "homepage": "https://github.com/benben1024/js-err-collector#readme"
+}
